@@ -18,7 +18,7 @@ title: chenjaiqi's Personl Website
 email:
 description: "chenjaiqi's Personl Website"
 baseurl: "/chenjaiqi"# the optional subpath of your site, e.g. "/blog"
-url: "https://zm_zero.gitee.io"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: "https://chenjiaqi.gitee.io"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
   name:
   twitter:
