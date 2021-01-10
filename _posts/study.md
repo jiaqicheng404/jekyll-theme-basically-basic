@@ -1,11 +1,11 @@
 ---
-title: "第一篇学习笔记"
-layout: page
+title: 第一篇学习笔记：markdown语法是个啥
 excerpt_separator: "<!--more-->"
 categories:
- - 学习笔记
+  - 学习笔记
 
 ---
+
 ## markdown概述
 ### 设计理念
 1. Markdown 易于阅读，方便创作web文档，利于各平台无缝分发。
