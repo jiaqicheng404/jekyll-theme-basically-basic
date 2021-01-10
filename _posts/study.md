@@ -21,8 +21,8 @@ categories:
 	
 ## 一些常用markdown语法
 1. #为一级标题 ##为二级标题 依次类推，最高为6级标题
-2. <center>xxx</center>为居中对齐<p align="left">xxxx</p>为向左对齐<p align="right">xxx</p>为向有对齐
+2. <center>为居中对齐</center><p align="left">为向左对齐</p><p align="right">为向右对齐</p>
 3. *x*为斜体 **x**为粗体 ***x***为加粗斜体
 
 ## 学习后的感想
-markdown语法作为一种常用的语法，熟悉的掌握其，对于我们学习前端知识具有十分重要的作用
+markdown语法作为一种常用的语法，熟悉的掌握其相关知识，对于我们学习前端知识具有十分重要的作用
