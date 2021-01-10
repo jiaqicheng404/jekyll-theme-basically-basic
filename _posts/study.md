@@ -3,10 +3,10 @@ title: "第一篇学习笔记"
 layout: page
 excerpt_separator: "<!--more-->"
 categories:
- - markdown语法
+ - 学习笔记
 
 ---
-## 概述
+## markdown概述
 ### 设计理念
 1. Markdown 易于阅读，方便创作web文档，利于各平台无缝分发。
 2. Markdown 语法灵感最大的来源还是纯文本 email 的格式，完全由标点符号标签组成的纯文本。
@@ -21,5 +21,5 @@ categories:
 2. <center>xxx</center>为居中对齐<p align="left">xxxx</p>为向左对齐<p align="right">xxx</p>为向有对齐
 3. *x*为斜体 **x**为粗体 ***x***为加粗斜体
 
-## 感想
+## 学习后的感想
 markdown语法作为一种常用的语法，熟悉的掌握其，对于我们学习前端知识具有十分重要的作用
