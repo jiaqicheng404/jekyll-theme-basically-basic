@@ -11,6 +11,9 @@ categories:
 1. Markdown 易于阅读，方便创作web文档，利于各平台无缝分发。
 2. Markdown 语法灵感最大的来源还是纯文本 email 的格式，完全由标点符号标签组成的纯文本。
 3. Markdown 文件应该以纯文本形式原样发布，不应该包含标记标签和格式化指令。
+
+<!--more-->
+
 ## 内联 HTML 语法
 1. HTML 是一种发布格式，Markdown 是一种创作格式。
 2. Markdown语法集合比较小，只是HTML标签的一小部分。
