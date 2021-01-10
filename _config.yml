@@ -17,8 +17,8 @@ lang: zh-CN
 title: chenjiaqi's Personl Website
 email:
 description: "chenjiaqi's Personl Website"
-baseurl: "/chenjiaqi" # the optional subpath of your site, e.g. 
-url: "https://chenjiaqi.gitee.io" # the base hostname & protocol for your site e.g. 
+baseurl: "/new" # the optional subpath of your site, e.g. 
+url: "https://new.gitee.io" # the base hostname & protocol for your site e.g. 
 author:
   name:
   twitter:
