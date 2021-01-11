@@ -1,7 +1,7 @@
 ---
 title: SVG笔记
-layout: category
-permalink: /categories/SVG笔记/
+layout: tag
+permalink: /tags/SVG笔记/
 taxonomy: SVG笔记
 image: assets/images/SVG笔记.png
 
